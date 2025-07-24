@@ -93,3 +93,10 @@ Code pushed to GitHub under structured repository. Proper README, folder hierarc
 This whiteboard project fulfills the MERN internship Task 3 goal by demonstrating a live, real-time collaboration tool using Socket.IO and React. It showcases full-stack synchronization, efficient communication, and a hands-on grasp of live client-server architecture.
 
 With personalized customization, modular folder structure, and real-time testing, this project serves as strong evidence of my capabilities as a MERN Stack developer building real-world, interactive applications.
+
+
+*OUTPUT:*
+
+<img width="1910" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f778cba0-0610-413a-9af5-2b767d16be75" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ccf841ae-34a9-4f99-ac71-22e7d99cabd2" />
